@@ -1,0 +1,8 @@
+{
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "csharp.semanticHighlighting.enabled": true
+}
